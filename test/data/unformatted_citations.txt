@@ -1,0 +1,7 @@
+1) Campbell, K. S. & Lakie, M. (1998). A cross-bridge mechanism can explain the thixotropic short-range elastic component of relaxed frog skeletal muscle. J Physiol. 510 ( Pt 3), 941-962. PMCID PMC2231083.
+2) Campbell, K. S. & Moss, R. L. (2000). A thixotropic effect in contracting rabbit psoas muscle: prior movement reduces the initial tension response to stretch. J Physiol. 525 Pt 2, 531-548. PMCID PMC2269955.
+3) Fitzsimons, D. P., Patel, J. R., Campbell, K. S. & Moss, R. L. (2001). Cooperative mechanisms in the activation dependence of the rate of force development in rabbit skinned skeletal muscle fibers. J Gen Physiol. 117, 133-148. PMCID PMC2217243.
+4) Campbell, K. S. & Moss, R. L. (2002). History-dependent mechanical properties of permeabilized rat soleus muscle fibers. Biophys J. 82, 929-943. PMCID PMC1301901.
+5) Campbell, K. S. & Moss, R. L. (2003). SLControl: PC-based data acquisition and analysis for muscle mechanics. Am J Physiol Heart Circ Physiol. 285, H2857-2864.  not available. PMID 12907419.
+6) Campbell, K. S., Patel, J. R. & Moss, R. L. (2003). Cycling cross-bridges increase myocardial stiffness at submaximal levels of Ca2+ activation. Biophys J. 84, 3807-3815. PMCID PMC1302962.
+7) Warren, C. M., Krzesinski, P. R., Campbell, K. S., Moss, R. L. & Greaser, M. L. (2004). Titin isoform changes in rat myocardium during development. Mech Dev. 121, 1301-1312.  not available. PMID 15454261.
